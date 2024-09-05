@@ -1,0 +1,9 @@
+{
+  "name": "product-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AfaaqRamzan/product-store.git",
+  "author": "AfaaqRamzan <69888091+AfaaqRamzan@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
